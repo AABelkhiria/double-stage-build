@@ -5,7 +5,7 @@ FROM golang:1.20 AS builder
 WORKDIR /app
 
 # Copy go.mod and go.sum first for dependency caching
-COPY src/go.mod src/go.sum ./
+COPY src/go.mod ./
 RUN go mod download
 
 # Copy the rest of the source code
