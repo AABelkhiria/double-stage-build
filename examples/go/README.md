@@ -1,4 +1,4 @@
-# Minimal Multi-Stage Docker Example
+# Minimal Multi-Stage Docker Go Example
 
 This folder contains a **very minimal Go application** and a multi-stage Dockerfile that demonstrates how to:
 

@@ -6,7 +6,7 @@ This repository demonstrates how to efficiently build and run containerized appl
 
 This repository contains the following directories:
 - `docker`: Contains a Dockerfile demonstrating best practices for building lightweight, secure containers.
-- `examples`: An example application written in Go, illustrating the multi-stage build process. It includes a dedicated README with setup instructions.
+- `examples`: Some example applications, illustrating the multi-stage build process. It includes a dedicated README with setup instructions.
 
 ## Key Features
 
